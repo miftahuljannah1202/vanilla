@@ -3,6 +3,7 @@
 #CARA MENGGUNAKAN GIT
 
 1.Doawnload git di website resminya git (git-scm.com).
+
 2.Menambahkan global config
  
  -Pada saat pertama kali menggunakan git kita perlu melakukan konfigurasi user.name dan user.email
