@@ -3,9 +3,7 @@
 #CARA MENGGUNAKAN GIT
 
 1.Doawnload git di website resminya git (git-scm.com).
-
 2.Menambahkan global config
- 
  -Pada saat pertama kali menggunakan git kita perlu melakukan konfigurasi user.name dan user.email
  
  -Apabila belim dilakukan dapat mengakibatkan terjadinya kegagalan saat menjalankan perintah git commit.
@@ -14,6 +12,7 @@
  
  $ git config --global user.email "miftahuljannah2646@gmail.com"
 
+![gambar config](https://github.com/miftahuljannah1202/vanilla/blob/master/gambar/ss%20git%20config.png?raw=true)
 3.Membuat repository difolder baru 
  
  -Buat file baru pada repository anda dengan perintah git init
