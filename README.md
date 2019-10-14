@@ -27,6 +27,7 @@
 ![gambar echo](https://github.com/miftahuljannah1202/vanilla/blob/master/gambar/ss%204%20add%20readme.md.PNG)
 
  -File README.md berhasil dibuat
+
 ![git status](https://github.com/miftahuljannah1202/vanilla/blob/master/gambar/ss%20git%20status.PNG)
 
 ![gambar readme.md berhasil](https://github.com/miftahuljannah1202/vanilla/blob/master/gambar/ss%205%20readme.md%20bershasil.PNG)
