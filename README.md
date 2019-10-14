@@ -13,19 +13,24 @@
  $ git config --global user.email "miftahuljannah2646@gmail.com"
 
 ![gambar config](https://github.com/miftahuljannah1202/vanilla/blob/master/gambar/ss%20git%20config.png?raw=true)
+
 3.Membuat repository difolder baru 
  
  -Buat file baru pada repository anda dengan perintah git init
   ($ git init)
 
 ![gambar git init](https://github.com/miftahuljannah1202/vanilla/blob/master/gambar/ss%203%20git%20init.PNG)
+
  -lalu membuat file bernama README.md
   ($ echo "#latihan_git" >>README.md)
 
 ![gambar echo](https://github.com/miftahuljannah1202/vanilla/blob/master/gambar/ss%204%20add%20readme.md.PNG)
+
  -File README.md berhasil dibuat
 ![git status](https://github.com/miftahuljannah1202/vanilla/blob/master/gambar/ss%20git%20status.PNG)
+
 ![gambar readme.md berhasil](https://github.com/miftahuljannah1202/vanilla/blob/master/gambar/ss%205%20readme.md%20bershasil.PNG)
+
 
 4.Commit (menyimpan perubahan ke database)
 
@@ -35,6 +40,7 @@
   ($ git commit -m "file pertama saya"
 
 ![gambar commit](https://github.com/miftahuljannah1202/vanilla/blob/master/gambar/ss%206%20git%20commit.PNG)
+
 5.Membuat repository server
  -Server repository yang akan kita gunakan adalah htttp://github.com
  
