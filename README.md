@@ -18,6 +18,7 @@
  -Buat file baru pada repository anda dengan perintah git init
   ($ git init)
 
+![gambar git init](https://github.com/miftahuljannah1202/vanilla/blob/master/gambar/ss%203%20git%20init.PNG)
  -lalu membuat file bernama README.md
   ($ echo "#latihan_git" >>README.md)
 
