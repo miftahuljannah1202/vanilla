@@ -8,7 +8,7 @@
  
  -Pada saat pertama kali menggunakan git kita perlu melakukan konfigurasi user.name dan user.email
  
- -Apabila belim dilakukan dapat mengakibatkan terjadinya kegagalan saat menjalankan perintah git commit.
+ -Apabila belum dilakukan dapat mengakibatkan terjadinya kegagalan saat menjalankan perintah git commit.
  
  $ git config --global user.name "miftahuljannah"
  
@@ -45,9 +45,11 @@
 ![gambar commit](https://github.com/miftahuljannah1202/vanilla/blob/master/gambar/ss%206%20git%20commit.PNG)
 
 5.Membuat repository server
+ 
  -Server repository yang akan kita gunakan adalah htttp://github.com
  
  -Anda harus membuat akun terlebih dahulu
+ 
  -Pada laman github,klik tombol strat project,atau
  
  -Dari menu (icon +) klik new repository
